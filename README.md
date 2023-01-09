@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Stats](https://github-readme-stats.vercel.app/api?username=The60th&show_icons=true&count_private=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The60th&layout=compact&theme=vue)
+
 <!--
 **The60th/the60th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
